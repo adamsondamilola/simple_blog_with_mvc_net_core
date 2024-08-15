@@ -1,44 +1,32 @@
-﻿<Properties StartupConfiguration="{5754C98E-98AB-41F0-990C-0DCE21F76013}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{5754C98E-98AB-41F0-990C-0DCE21F76013}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Blogsiotoh PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Blogsiotoh/Views/Post/View.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Blogsiotoh/Services/PostServices.cs">
     <Files>
-      <File FileName="Blogsiotoh/Views/Home/Index.cshtml" Line="25" Column="62" />
-      <File FileName="Blogsiotoh/Models/Post.cs" Line="23" Column="1" />
+      <File FileName="Blogsiotoh/Views/Home/Index.cshtml" />
+      <File FileName="Blogsiotoh/Models/Post.cs" />
       <File FileName="Blogsiotoh/Controllers/HomeController.cs" />
       <File FileName="Blogsiotoh/Views/Post/Index.cshtml" Line="77" Column="58" />
-      <File FileName="Blogsiotoh/Controllers/PostController.cs" Line="124" Column="14" />
+      <File FileName="Blogsiotoh/Controllers/PostController.cs" Line="118" Column="1" />
       <File FileName="Blogsiotoh/Views/Post/Create.cshtml" />
-      <File FileName="Blogsiotoh/Services/PostServices.cs" Line="58" Column="50" />
-      <File FileName="Blogsiotoh/appsettings.json" Line="12" Column="2" />
-      <File FileName="Blogsiotoh/Views/Post/Edit.cshtml" Line="19" Column="62" />
-      <File FileName="Blogsiotoh/Models/Blog.cs" Line="4" Column="15" />
+      <File FileName="Blogsiotoh/Services/PostServices.cs" Line="192" Column="14" />
+      <File FileName="Blogsiotoh/appsettings.json" />
+      <File FileName="Blogsiotoh/Views/Post/Edit.cshtml" Line="19" Column="130" />
+      <File FileName="Blogsiotoh/Models/Blog.cs" />
       <File FileName="Blogsiotoh/Views/Post/View.cshtml" Line="51" Column="20" />
+      <File FileName="Blogsiotoh/Views/Post/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="Blogsiotoh/Utilities/RandomKeys.cs" Line="17" Column="1" />
+      <File FileName="Blogsiotoh/Models/BlogContext.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Blogsiotoh" expanded="True">
-            <Node name="Blogsiotoh" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Auth" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Blogsiotoh" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Blogsiotoh PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
